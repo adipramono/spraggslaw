@@ -1,0 +1,86 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Attorney",
+  "name": "Thomas L. Spraggs",
+  "url": "https://spraggslaw.ca/staff_member/thomas-l-spraggs/",
+  "description": "Thomas L. Spraggs is a senior litigator with a focus on personal injury and harassment litigation. He is also a co-founder of a technology-based platform that enables clients to have access to legal advice online.",
+  "image": "https://spraggslaw.ca/wp-content/uploads/2019/04/thomas-spraggs.jpg",
+  "telephone": "+1-604-359-1626",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1030 Westwood St #202",
+    "addressLocality": "Coquitlam",
+    "addressRegion": "British Columbia",
+    "postalCode": "V3C 4E4",
+    "addressCountry": "Canada"
+  },
+  "sameAs": [
+    "https://www.linkedin.com/in/thomasspraggs/"
+  ],
+  "memberOf": [
+    {
+      "@type": "LegalService",
+      "name": "Spraggs Law"
+    },
+    {
+      "@type": "ProfessionalService",
+      "name": "Alternative Dispute Institute of BC"
+    },
+    {
+      "@type": "Organization",
+      "name": "Law Society of British Columbia"
+    },
+    {
+      "@type": "Organization",
+      "name": "Law Society of BC"
+    },
+    {
+      "@type": "Organization",
+      "name": "American Association for Justice"
+    },
+    {
+      "@type": "Organization",
+      "name": "New Westminster Bar Association"
+    },
+    {
+      "@type": "Organization",
+      "name": "Trial Lawyers Association of BC"
+    },
+    {
+      "@type": "Organization",
+      "name": "Canadian Bar Association"
+    },
+    {
+      "@type": "Organization",
+      "name": "CBABC Civil Litigation Tri-Cities/New Westminster Section"
+    },
+    {
+      "@type": "Organization",
+      "name": "Justice Education Society"
+    }
+  ],
+  "hasCredential": [
+    {
+      "@type": "EducationalOccupationalCredential",
+      "name": "LL.B.",
+      "educationalLevel": "Bachelor's Degree"
+    },
+    {
+      "@type": "EducationalOccupationalCredential",
+      "name": "LL.M.",
+      "educationalLevel": "Master's Degree"
+    },
+    {
+      "@type": "EducationalOccupationalCredential",
+      "name": "MBA",
+      "educationalLevel": "Master's Degree"
+    },
+    {
+      "@type": "EducationalOccupationalCredential",
+      "name": "Q.Arb",
+      "educationalLevel": "Professional Certification"
+    }
+  ]
+}
+</script>

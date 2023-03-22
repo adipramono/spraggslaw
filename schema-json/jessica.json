@@ -1,0 +1,62 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Attorney",
+  "name": "Jessica A. Spraggs",
+  "email": "jessica.spraggs@spraggslaw.com",
+  "telephone": "+1-604-359-1618",
+  "url": "https://spraggslaw.ca/staff_member/jessica-a-spraggs/",
+  "description": "Jessica A. Spraggs is a lawyer at Spraggs Law in Coquitlam. If you or a loved is seeking legal representation, contact Jessica for a free consultation.",
+  "image": "https://spraggslaw.ca/wp-content/uploads/2019/04/jessica-spraggs.jpg",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1030 Westwood St #202",
+    "addressLocality": "Coquitlam",
+    "addressRegion": "British Columbia",
+    "postalCode": "V3C 4E4",
+    "addressCountry": "Canada"
+  },
+  "sameAs": [
+    "https://www.linkedin.com/in/jessica-spraggs-85941a45/"
+  ],
+  "memberOf": [
+    {
+      "@type": "LegalService",
+      "name": "Spraggs Law"
+    },
+    {
+      "@type": "Organization",
+      "name": "Canadian Bar Association"
+    },
+    {
+      "@type": "Organization",
+      "name": "Backstage Youth Performers Society"
+    },
+    {
+      "@type": "Organization",
+      "name": "Talitha Koum Society"
+    },
+    {
+      "@type": "Organization",
+      "name": "Trinity Western University"
+    }
+  ],
+  "hasCredential": [
+    {
+      "@type": "EducationalOccupationalCredential",
+      "name": "LL.B.",
+      "educationalLevel": "Bachelor's Degree"
+    },
+    {
+      "@type": "EducationalOccupationalCredential",
+      "name": "MBA",
+      "educationalLevel": "Master's Degree"
+    },
+	{
+      "@type": "EducationalOccupationalCredential",
+      "educationalLevel": "BA",
+      "name": "Bachelor's Degree"
+    }
+ ]
+}
+</script>

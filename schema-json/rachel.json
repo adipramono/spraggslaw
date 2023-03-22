@@ -1,0 +1,48 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Rachel Rabinovitch",
+  "jobTitle": "Human Resources Consultant",
+  "email": "rachel.rabinovitch@spraggslaw.com",
+  "telephone": "+1 604.359.1615",
+  "url": "https://spraggslaw.ca/consultants/rachel-rabinovitch/",
+  "description": "Rachel is a Human Resources Consultant with Spraggs Law.  Rachel provides HR consulting services for small to mid-size businesses on a wide range of human resource matters.",
+  "image": "https://spraggslaw.ca/wp-content/uploads/2021/02/RachelRabinovitchHeadshot-small.jpg",
+  "memberOf": {
+    "@type": "Organization",
+    "name": "Chartered Professional in Human Resources"
+  },
+  "sameAs": [
+    "https://www.linkedin.com/in/rachel-rabinovitch-she-her/"
+  ],
+  "hasCredential": [
+    {
+      "@type": "EducationalOccupationalCredential",
+      "name": "CPHR",
+      "educationalLevel": "Chartered Professional in Human Resources"
+    },
+    {
+      "@type": "EducationalOccupationalCredential",
+      "name": "Advanced Human Resources Management Certificate",
+      "educationalLevel": "Certificate"
+    },
+    {
+      "@type": "EducationalOccupationalCredential",
+      "name": "Human Resources Management Certificate",
+      "educationalLevel": "Certificate"
+    }
+  ],
+  "alumniOf": {
+    "@type": "EducationalOrganization",
+    "name": "BCIT"
+  },
+  "knowsAbout": [
+    "Human resources",
+    "Recruitment",
+    "Performance management",
+    "Workplace relations",
+    "Process improvement"
+  ]
+}
+</script>

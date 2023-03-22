@@ -1,0 +1,45 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Attorney",
+  "name": "Michael Liu",
+  "email": "michael.liu@spraggslaw.com",
+  "telephone": "+1 604 359 1615",
+  "url": "https://spraggslaw.ca/staff_member/michael-liu/",
+  "description": "Michael Liu is a lawyer at Spraggs Law in Coquitlam. Fluent in Mandarin, Michael enjoys working with clients from different cultures and backgrounds.",
+  "image": "https://spraggslaw.ca/wp-content/uploads/2019/04/michael-lui.jpg",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1030 Westwood St #202",
+    "addressLocality": "Coquitlam",
+    "addressRegion": "British Columbia",
+    "postalCode": "V3C 4E4",
+    "addressCountry": "Canada"
+  },
+  "memberOf": [
+    {
+      "@type": "Organization",
+      "name": "Canadian Bar Association"
+    },
+    {
+      "@type": "Organization",
+      "name": "Federation of Asian Canadian Lawyers"
+    }
+  ],
+  "hasCredential": [
+    {
+      "@type": "EducationalOccupationalCredential",
+      "name": "J.D.",
+      "educationalLevel": "Doctoral Degree"
+    },
+    {
+      "@type": "EducationalOccupationalCredential",
+      "name": "B.A.",
+      "educationalLevel": "Bachelor's Degree"
+    }
+  ],
+  "sameAs": [
+    "https://www.linkedin.com/in/michael-liu-b4699452/"
+  ]
+}
+</script>

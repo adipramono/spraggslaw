@@ -1,0 +1,39 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Attorney",
+  "name": "Cody J. Wagner",
+  "email": "cody.wagner@spraggslaw.com",
+  "telephone": "+1 604 359 1618",
+  "url": "https://spraggslaw.ca/staff_member/cody-j-wagner/",
+  "description": "Cody J. Wagner is a lawyer at Spraggs Law in Coquitlam. Cody provides excellent service while advocating on behalf of injured people",
+  "image": "https://spraggslaw.ca/wp-content/uploads/2019/04/cody-wagner.jpg",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1030 Westwood St #202",
+    "addressLocality": "Coquitlam",
+    "addressRegion": "British Columbia",
+    "postalCode": "V3C 4E4",
+    "addressCountry": "Canada"
+  },
+  "memberOf": {
+    "@type": "Organization",
+    "name": "CBABC Civil Litigation Tri-Cities/ New Westminster Section – Secretary"
+  },
+  "hasCredential": [
+    {
+      "@type": "EducationalOccupationalCredential",
+      "name": "Bcomm",
+      "educationalLevel": "Bachelor's Degree"
+    },
+    {
+      "@type": "EducationalOccupationalCredential",
+      "name": "JD",
+      "educationalLevel": "Professional Degree"
+    }
+  ],
+  "sameAs": [
+    "https://www.linkedin.com/in/cody-j-wagner-44477b56/"
+  ]
+}
+</script>
